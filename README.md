@@ -12,17 +12,6 @@ Discord Bot Developer
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/985151399207788615?animated=false&showDisplayName=true)](https://discord.com/users/985151399207788615)
 
----
-## 🤝 Collaborators
-
-| Avatar                                              | User                              |
-| --------------------------------------------------- | --------------------------------- |
-| <img src="https://github.com/ユーザー1.png" width="50"> | [ユーザー1](https://github.com/ユーザー1) |
-| <img src="https://github.com/ユーザー2.png" width="50"> | [ユーザー2](https://github.com/ユーザー2) |
-| <img src="https://github.com/ユーザー3.png" width="50"> | [ユーザー3](https://github.com/ユーザー3) |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
