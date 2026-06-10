@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ユーザー名/ユーザー名/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/takkun2355/takkun2355/main/banner.png" width="100%" />
 
 <br>
 
-<img src="https://github.com/ユーザー名.png" width="120" style="border-radius:50%;" />
+<img src="https://github.com/takkun2355.png" width="120" style="border-radius:50%;" />
 
 # UNKOMAN
 
 Discord Bot Developer
 
-🎂 05/05
+🎂 09/24
 
 [![Discord Status](https://lanyard.cnrad.dev/api/985151399207788615)](https://discord.com/users/985151399207788615)
 
