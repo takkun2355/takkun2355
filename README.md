@@ -1,8 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=UNKOMAN&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
-
-
 <br>
 
 <img src="https://github.com/takkun2355.png" width="120" style="border-radius:50%;" />
@@ -13,7 +9,7 @@ Discord Bot Developer
 
 🎂 09/24
 
-[![Discord Status](https://lanyard.cnrad.dev/api/985151399207788615)](https://discord.com/users/985151399207788615)
+[![Discord Presence](https://lanyard.cnrad.dev/api/985151399207788615?animated=false&showDisplayName=true)](https://discord.com/users/985151399207788615)
 
 </div>
 
@@ -40,6 +36,7 @@ Discord Bot Developer
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=takkun2355" />
 </p>
 
 ---
