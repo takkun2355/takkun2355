@@ -12,8 +12,6 @@ Discord Bot Developer
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/985151399207788615?animated=false&showDisplayName=true)](https://discord.com/users/985151399207788615)
 
-</div>
-
 ---
 ## 🤝 Collaborators
 
@@ -80,3 +78,5 @@ Discord Bot Developer
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=takkun2355&style=flat-square" />
 </p>
+
+</div>
