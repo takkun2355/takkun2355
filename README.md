@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=UNKOMAN&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-</div>
+
 <br>
 
 <img src="https://github.com/takkun2355.png" width="120" style="border-radius:50%;" />
