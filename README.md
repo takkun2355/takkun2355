@@ -32,10 +32,10 @@ Discord Bot Developer
 
 ## 🏆 Trophy
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=tokyonight&row=1&column=6" />
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355" />
-</p>
+<--! <p align="center"> -->
+<--! <img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=tokyonight&row=1&column=6" /> -->
+<--! <img src="https://github-profile-trophy.vercel.app/?username=takkun2355" /> -->
+<--! </p> -->
 
 ---
 
