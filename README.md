@@ -23,19 +23,19 @@ Discord Bot Developer
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=ambient_gradient" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=github" />
 
 ---
 
 ## 🏆 Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=ambient_gradient&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=github&row=1&column=6" />
 
 ---
 
 ## ⭐ Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takkun2355&theme=ambient_gradient" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takkun2355&theme=github" />
 
 ---
 
