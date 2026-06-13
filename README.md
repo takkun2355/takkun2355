@@ -57,4 +57,3 @@ Discord Bot Developer
 
 </p>
 </div>
-</script>
