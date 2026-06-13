@@ -1,5 +1,6 @@
 
 <div align="center">
+<p align="center">
 <br>
 
 <img src="https://github.com/takkun2355.png" width="120" style="border-radius:50%;" />
@@ -15,61 +16,45 @@ Discord Bot Developer
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=takkun2355&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkun2355&layout=compact&theme=tokyonight" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=takkun2355&show_icons=true&theme=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkun2355&layout=compact&theme=github" />
 
 ---
 
 ## 📈 Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=tokyo-night" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=github" />
 
 ---
 
 ## 🏆 Trophy
 
-```
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=tokyonight&row=1&column=6" />
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355" />
-</p>
-```
+<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=github&row=1&column=6" />
 
 ---
 
 ## ⭐ Profile Summary
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takkun2355&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takkun2355&theme=github" />
 
 ---
 
 ## 🛠 Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
 
 ---
 
 ## ⚙️ Tools
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
-</p>
 
 ---
 
 ## 👀 Visitors
 
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=takkun2355&style=flat-square" />
-</p>
 
+</p>
 </div>
 </script>
