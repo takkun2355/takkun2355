@@ -16,26 +16,26 @@ Discord Bot Developer
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=takkun2355&show_icons=true&theme=ambient_gradient" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkun2355&layout=compact&theme=ambient_gradient" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=takkun2355&show_icons=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkun2355&layout=compact&theme=github_dark" />
 
 ---
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=github" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=github_dark" />
 
 ---
 
 ## 🏆 Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=github&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&theme=github_dark&row=1&column=6" />
 
 ---
 
 ## ⭐ Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takkun2355&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takkun2355&theme=github_dark" />
 
 ---
 
