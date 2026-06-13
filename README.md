@@ -29,7 +29,7 @@ Discord Bot Developer
 
 ## 🏆 Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&row=1&column=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=takkun2355&no-bg=true&row=1&column=5" />
 
 ---
 
