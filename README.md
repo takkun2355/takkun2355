@@ -23,7 +23,7 @@ Discord Bot Developer
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=github_dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=takkun2355&theme=github" />
 
 ---
 
